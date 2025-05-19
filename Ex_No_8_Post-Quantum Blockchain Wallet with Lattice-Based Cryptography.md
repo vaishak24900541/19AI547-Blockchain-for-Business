@@ -73,6 +73,20 @@ Transactions require a quantum-resistant signature for authentication.
 
 
 If a traditional quantum-vulnerable hash is used, the transaction fails.
+![8(1)](https://github.com/user-attachments/assets/04beb624-5339-426e-8cb6-a92f8417af3d)
+
+![8(2)](https://github.com/user-attachments/assets/9f84985a-8ccc-4730-b8e6-64ad6d315d2d)
+
+![8(3)](https://github.com/user-attachments/assets/68c9670d-e296-4121-9995-665f851675f6)
+
+![8(4)](https://github.com/user-attachments/assets/6139f5c6-8b32-46f4-a370-7a89a41a6846)
+
+![8(5)](https://github.com/user-attachments/assets/e3f89403-c8a7-4820-a7bc-e13b5f18cc49)
+
+![8(6)](https://github.com/user-attachments/assets/21d409b4-1e26-4839-a231-1e43d024af34)
+
+![8(7)](https://github.com/user-attachments/assets/cff0fdd5-c64c-4272-9a54-ed92551e96c7)
+
 
 
 # RESULT : 

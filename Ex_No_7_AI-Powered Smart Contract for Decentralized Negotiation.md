@@ -116,4 +116,17 @@ Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
 
+![7(1)](https://github.com/user-attachments/assets/6620b4d2-3c38-4506-b9b8-90b69f68acf0)
+
+![7(2)](https://github.com/user-attachments/assets/dd8cbdb9-bd94-4aba-b8af-9a9028c86009)
+
+![7(3)](https://github.com/user-attachments/assets/9a0c1043-7f79-4a11-804c-7be71a870d03)
+
+![7(4)](https://github.com/user-attachments/assets/3165bbae-48c1-4c86-b2ad-2ae1ed5b4866)
+
+![7(5)](https://github.com/user-attachments/assets/7ffee903-43c4-4401-8bcd-131ebbfcf0dd)
+
+
+
+
 
